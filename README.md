@@ -1,7 +1,7 @@
 # ZoophiliaLanguage
 A Brainfuck equivalent language compiler and decompiler
 
-Wikipage at 
+Wikipage at https://esolangs.org/wiki/Zoophilia
 
 You will need to run these pip commands to install dependencies, and have python 2 or 3 installed:
 
